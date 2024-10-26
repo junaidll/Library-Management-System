@@ -1,4 +1,4 @@
-# Author: Mohd Junaid Khan
+# Author: Mohd Junaid Khan , Lakshay 
  
 # Library Management System
 
